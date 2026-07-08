@@ -140,12 +140,6 @@ Exploratory Data Analysis using Pandas and Matplotlib.
 
 ---
 
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions with Platane/snk to display the contribution snake animation.
-
----
-
 # 🎯 Current Focus
 
 ```yaml
